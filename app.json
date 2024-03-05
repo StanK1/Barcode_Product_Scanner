@@ -1,4 +1,10 @@
 {
-  "name": "Test_App",
-  "displayName": "Test_App"
+  "expo": {
+    "name": "barcode-scanner",
+    "slug": "barcode-scanner",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
 }
